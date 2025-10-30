@@ -1,2 +1,2 @@
 # ReinforcementLearning
-GRPO: Generalized Relative Policy Optimization
+GRPO: Group Relative Policy Optimization
